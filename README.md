@@ -39,20 +39,6 @@
   </a>
 </p>
 
-## Contact
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mxmry&color=grey" />
-  <a href="mailto:your@email.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/1450587346163470552">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865f2?style=flat&logo=discord&logoColor=white" />
-  </a>
-</p>
-
-</p>
-
 <p>
   <strong>Operating Systems</strong><br/><br/>
   <a href="https://skills.syvixor.com">
