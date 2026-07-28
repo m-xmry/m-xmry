@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/m-xmry/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/m-xmry/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-<a href="https://discord.com/users/1504736969207320636"><img src="https://lanyard.cnrad.dev/api/1504736969207320636?idleMessage=Reversing%20in%20IDA&theme=dark" /></a>
+<a href="https://discord.com/users/1504736969207320636"><img src="https://lanyard.cnrad.dev/api/1504736969207320636?idleMessage=Reversing%20in%20IDA&theme=dark&borderRadius=15" /></a>
 
 ## Tech Stack
 
