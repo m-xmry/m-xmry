@@ -41,12 +41,3 @@
 
 ## Contact
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=m-xmry&color=grey" />
-  <a href="mailto:your@email.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/1504736969207320636">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865f2?style=flat&logo=discord&logoColor=white" />
-  </a>
-</p>
